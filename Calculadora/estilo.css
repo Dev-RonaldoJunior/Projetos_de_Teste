@@ -1,0 +1,13 @@
+calculator {
+    width: 200px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.calculator input {
+    width: 100%;
+    margin-bottom: 5px;
+    padding: 5px;
+}
